@@ -21,10 +21,7 @@ const Footer = ({ data }) => {
 
           <ul className="copyright">
             <li>
-              Made by{" "}
-              <a title="Paul" href="">
-                Paul
-              </a>
+              Made by <a title="Paul">Paul</a>
             </li>
           </ul>
         </div>
