@@ -1,0 +1,141 @@
+{
+  "main": {
+    "name": "Paul Maliakel",
+    "occupation": "Full Stack Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepic.png",
+    "bio": "Hi there! I am Paul Maliakel, a digital marketer turned Full Stack developer focussing on MERN Stack (MongoDB, Express, React.js and Node.js), TypeScript, PostgreSQL, Socket.IO and Redux",
+    "contactmessage": "Get in touch with me!",
+    "email": "paulbalu93@gmail.com",
+    "phone": "+49 17630361341",
+    "address": {
+      "street": "Ohmstrasse 9 ",
+      "city": "Berlin",
+      "state": "Berlin",
+      "zip": "13629"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+    
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/paul.b.maliakel",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/paul-maliakel",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_naturekid/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/paulbalu93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Federal Institute of Science and Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Bitterpower GmbH",
+        "title": "Frontend Developer",
+        "years": "October 2021 - Present",
+        "description": "- Developed a new custom CMS system using React.js and Typescript.
+        - Built various new reusable components for future use
+        - Worked on Email Templates and landing pages
+        - Developed the company website in Different languages like Italian, French and
+          English
+        - Implemented search bar, Topbar for marketing and various changes to company 
+           website"
+         
+      },
+      { "company": "Freelancer",
+        "title": "Full Stack Developer",
+        "years": "October 2020 - October 2021",
+        "description": "Helping various clients around the world develop their dream projects. "
+
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AirBnB Clone (React JS)",
+        "category": "",
+        "image": "airbnb.png",
+        "url": "https://airbnb-nextjs-psi.vercel.app/"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://amazon-clone-nextjs-j4n4xugsv-paulbalu93.vercel.app/"
+      },
+      {
+        "title": "Bitterliebe Custom CMS(Typescript & React JS)",
+        "category": "",
+        "image": "",
+        "url": "https://bitterliebe-cms.web.app/"
+      },
+      {
+        "title": "FaceBook Clone (React JS)",
+        "category": "",
+        "image": "",
+        "url": "https://facebook-nextjs-five.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Paul was a great asset to the team. You give him something to be done. You would expect an acknowledgement that he is working on it, or something of that manner....what comes instead is - It's done! Go-doer, creative, enterprising, passionate - that's Paul for you.",
+        "user": "Krishanu Mukherjee, AVP - Product at ADDA"
+      },
+      {
+        "text": "Paul is our integration expert. He was able to finish all the tasks on time and a lot more. With a good knowledge of marketing he was instrumental in setup of CRM, Marketing Processes and events.",
+        "user": "Madhab Pandey, Product at Whatfix"
+      },
+      {
+        "text": "Paul expertly filled the role for my company’s marketing team from the beginning, supporting especially with organic growth/SEO. A great hire!",
+        "user": "Jael Martin, Marketing Manager at Timeless & Gapless, Berlin"
+      }
+    ]
+  }
+}
