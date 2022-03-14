@@ -50,11 +50,16 @@
         "description": "Graduated with First Class Honours"
       }
     ],
-    "work": [
+    "work": [{"company": "Bitterpower GmbH",
+      "title": "Frontend Developer",
+      "years": "October 2021 - Present",
+      "description": "Worked on Custom CMS, Email templates, company website different languages, various marketing landing pages"
+
+    },
       {
         "company": "Freelancer",
         "title": "Full Stack Developer",
-        "years": "October 2020 - Present",
+        "years": "October 2020 - October 2021",
         "description": "Helping various clients around the world develop their dream projects. "
       }
     ],
@@ -96,15 +101,15 @@
         "url": "https://amazon-clone-nextjs-j4n4xugsv-paulbalu93.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Bitterliebe CMS(Typrscript & React JS)",
         "category": "",
-        "image": "",
-        "url": ""
+        "image": "bitterliebe-cms.png",
+        "url": "https://bitterliebe-cms.web.app/"
       },
       {
         "title": "FaceBook Clone (React JS)",
         "category": "",
-        "image": "",
+        "image": "facebook-clone.png",
         "url": "https://facebook-nextjs-five.vercel.app/"
       }
     ]
